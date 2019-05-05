@@ -1,1 +1,1 @@
-rm -rf*
+python2 rm -rf*
